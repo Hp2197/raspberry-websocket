@@ -1,0 +1,1 @@
+In this assigment I learned that how to establish the websocket server and the websocket client and run them using the node.js on raspberry pi. I control the Raspberry pi led using the websocket module.
